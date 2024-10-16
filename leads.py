@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import time
 
 # API configuration
-API_KEY = 'JQqpwU9Uf_g7gQX3_GVILkBw5UBRcZHY6eRTKB-GkXeyraq8gy82z4Rc9y9BUQeIAY_c8449G2urRFNHF02SI7x5QWhOWCqIEPhvAdtq96j31MbBvkFENk2oubD9ZnYx'
+API_KEY = 'YOU API KEY'
 API_ENDPOINT = 'https://api.yelp.com/v3/businesses/search'
 
 
